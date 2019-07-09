@@ -39,7 +39,7 @@ namespace NNLD
             }
             else if (com == "/exit")
             {
-                return;
+                Environment.Exit(0);
             }
             else if (com.StartsWith("/make image"))
             {
