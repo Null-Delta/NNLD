@@ -13,3 +13,14 @@ C:\Users\User\Desktop\NNLD\NNLD\bin\Debug\AForge.Video.xml
 C:\Users\User\Desktop\NNLD\NNLD\bin\Debug\AForge.Video.FFMPEG.xml
 C:\Users\User\Desktop\NNLD\NNLD\obj\Debug\NNLD.csproj.CopyComplete
 C:\Users\User\Desktop\NNLD\NNLD\bin\Debug\CursesSharp.dll
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\NNLD.exe.config
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\NNLD.exe
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\NNLD.pdb
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\AForge.xml
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.xml
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\obj\Debug\NNLD.csprojAssemblyReference.cache
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\obj\Debug\NNLD.csproj.CoreCompileInputs.cache
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\obj\Debug\NNLD.csproj.CopyComplete
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\obj\Debug\NNLD.exe
+C:\Users\PC-5\Source\Repos\NNLD\NNLD\NNLD\obj\Debug\NNLD.pdb

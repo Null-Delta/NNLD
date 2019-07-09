@@ -16,8 +16,6 @@ namespace NNLD
        
         static void Main(string[] args)
         {
-
-            
             string com = "";
             while (true)
             {
@@ -180,22 +178,22 @@ namespace NNLD
 
                         if (outputs.Max() == outputs[0])
                         {
-                            g.DrawLine(p, x / 2 + 2, y / 2 + 1, x / 2 + 2, y / 2 + 3);
+                            g.DrawLine(p, x + 2, y + 1, x + 2, y + 3);
 
                         }
                         if (outputs.Max() == outputs[1])
                         {
-                            g.DrawLine(p, x / 2 + 1, y / 2 + 2, x / 2 + 3, y / 2 + 2);
+                            g.DrawLine(p, x + 1, y + 2, x + 3, y + 2);
 
                         }
                         if (outputs.Max() == outputs[2])
                         {
-                            g.DrawLine(p, x / 2 + 1, y / 2 + 1, x / 2 + 3, y / 2 + 3);
+                            g.DrawLine(p, x + 1, y + 1, x + 3, y + 3);
 
                         }
                         if (outputs.Max() == outputs[3])
                         {
-                            g.DrawLine(p, x / 2 + 3, y / 2 + 1, x / 2 + 1, y / 2 + 3);
+                            g.DrawLine(p, x + 3, y + 1, x + 1, y + 3);
 
                         }
 
