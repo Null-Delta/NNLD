@@ -1,0 +1,11 @@
+/Users/zed/Projects/NNLD/NNLD/bin/Debug/netcoreapp2.1/NNLD.deps.json
+/Users/zed/Projects/NNLD/NNLD/bin/Debug/netcoreapp2.1/NNLD.runtimeconfig.json
+/Users/zed/Projects/NNLD/NNLD/bin/Debug/netcoreapp2.1/NNLD.runtimeconfig.dev.json
+/Users/zed/Projects/NNLD/NNLD/bin/Debug/netcoreapp2.1/NNLD.dll
+/Users/zed/Projects/NNLD/NNLD/bin/Debug/netcoreapp2.1/NNLD.pdb
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.csprojAssemblyReference.cache
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.csproj.CoreCompileInputs.cache
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.AssemblyInfoInputs.cache
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.AssemblyInfo.cs
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.dll
+/Users/zed/Projects/NNLD/NNLD/obj/Debug/netcoreapp2.1/NNLD.pdb
