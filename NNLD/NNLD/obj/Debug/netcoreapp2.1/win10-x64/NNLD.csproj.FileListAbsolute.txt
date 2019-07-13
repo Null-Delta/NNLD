@@ -1,0 +1,14 @@
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/hostpolicy.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/hostfxr.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.exe
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.deps.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.runtimeconfig.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.runtimeconfig.dev.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Debug/netcoreapp2.1/win10-x64/NNLD.pdb
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.csprojAssemblyReference.cache
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.csproj.CoreCompileInputs.cache
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.AssemblyInfoInputs.cache
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.AssemblyInfo.cs
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Debug/netcoreapp2.1/win10-x64/NNLD.pdb

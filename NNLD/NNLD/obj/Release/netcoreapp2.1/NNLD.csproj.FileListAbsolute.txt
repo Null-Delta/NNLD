@@ -1,0 +1,10 @@
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Release/netcoreapp2.1/NNLD.deps.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Release/netcoreapp2.1/NNLD.runtimeconfig.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Release/netcoreapp2.1/NNLD.runtimeconfig.dev.json
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Release/netcoreapp2.1/NNLD.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/bin/Release/netcoreapp2.1/NNLD.pdb
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Release/netcoreapp2.1/NNLD.csproj.CoreCompileInputs.cache
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Release/netcoreapp2.1/NNLD.AssemblyInfoInputs.cache
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Release/netcoreapp2.1/NNLD.AssemblyInfo.cs
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Release/netcoreapp2.1/NNLD.dll
+/Users/zed/Documents/GitHub/NNLD/NNLD/NNLD/obj/Release/netcoreapp2.1/NNLD.pdb
