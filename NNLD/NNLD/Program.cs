@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 using System.IO;
+
 namespace NNLD
 {
 
@@ -133,7 +134,7 @@ namespace NNLD
             titlelenght = ("---------- " + fname + " rendering ----------").Length;
 
             Console.WriteLine("---------- " + fname + " rendering ----------");
-            Bitmap img = (Bitmap)Image.FromFile("Images/" + fname);
+            Bitmap img = (Bitmap)Bitmap.FromFile("Images/" + fname);
             Console.WriteLine("Image Loaded");
             img = ImageBD((Bitmap)img);
             Console.WriteLine("Image Refactored in White-Black");
@@ -161,7 +162,7 @@ namespace NNLD
                     //for (int i = 0; i < (int)(20 * (((img.Height - 4) * x + y) / (float)((img.Width - 4) * (img.Height - 4)))); i++) Console.Write("#");
                     //for (int i = 0; i < 20 - (int)(20 * (((img.Height - 4) * x + y) / (float)((img.Width - 4) * (img.Height - 4)))); i++) Console.Write("-");
                     //Console.Write("]");
-                    Console.Write("Rendering : " + (int)(10000 * (((img.Height - 4) * x + y) / (float)((img.Width - 4) * (img.Height - 4)))) / 100f + "%  00   ");
+                    Console.Write("Rendering : " + (int)(10000 * (((img.Height - 4) * x + y) / (float)((img.Width - 4) * (img.Height - 4)))) / 100f + "%      ");
 
                     inputs.Clear();
                     for (int i = 0; i < 4; i++)

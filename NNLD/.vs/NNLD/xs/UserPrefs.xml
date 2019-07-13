@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{6B05C6B3-A6E8-402B-8AD0-FD1FDA3ADC32}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/GitHub/NNLD/NNLD/NNLD/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NNLD/Program.cs">
     <Files>
-      <File FileName="NNLD/Program.cs" Line="10" Column="10" />
+      <File FileName="NNLD/Program.cs" Line="165" Column="156" />
       <File FileName="NNLD/Neuron.cs" Line="1" Column="1" />
       <File FileName="NNLD/NeuralNetwork.cs" Line="1" Column="1" />
-      <File FileName="../../Documents/GitHub/NNLD/NNLD/NNLD/Program.cs" Line="235" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NNLD" expanded="True">
             <Node name="NNLD" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+                <Node name="SdkDependencies" expanded="True">
+                  <Node name="Microsoft.NETCore.App" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
@@ -23,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.NNLD FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NNLD PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
