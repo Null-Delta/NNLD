@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\NNLD.exe.config
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\NNLD.exe
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\NNLD.pdb
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.Video.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.Video.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Release\NNLD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Release\NNLD.csproj.CopyComplete
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Release\NNLD.exe
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Release\NNLD.pdb
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Release\NNLD.csprojAssemblyReference.cache

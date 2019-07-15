@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Debug\NNLD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Debug\NNLD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\NNLD.exe.config
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\NNLD.exe
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\NNLD.pdb
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Debug\NNLD.exe
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Debug\NNLD.pdb
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\User\Desktop\NNLD\NNLD\NNLD\obj\Debug\NNLD.csproj.CopyComplete
